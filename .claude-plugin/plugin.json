@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "izifete",
-  "displayName": "Izifete — Événements et prestataires",
+  "displayName": "Izifete",
   "description": "10 workflows en français pour organiser un événement (budget, planning, quantités, trouver et vérifier des prestataires) et développer une activité de prestataire événementiel, reliés au MCP Izifete.",
   "version": "0.1.0",
   "author": {
@@ -11,5 +11,14 @@
   "homepage": "https://izifete.fr/mcp",
   "repository": "https://github.com/DjamelFoodie/izifete-agent-skills",
   "license": "Apache-2.0",
-  "keywords": ["evenement", "mariage", "traiteur", "dj", "photographe", "prestataire", "mcp", "skills"]
+  "keywords": [
+    "evenement",
+    "mariage",
+    "traiteur",
+    "dj",
+    "photographe",
+    "prestataire",
+    "mcp",
+    "skills"
+  ]
 }

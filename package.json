@@ -2,7 +2,7 @@
   "name": "izifete-agent-skills",
   "version": "0.1.0",
   "private": true,
-  "description": "9 French Agent Skills for event planning and event professionals in France, with optional Izifete MCP actions.",
+  "description": "10 French Agent Skills for event planning and event professionals in France, with optional Izifete MCP actions.",
   "type": "module",
   "scripts": {
     "test": "node scripts/validate-skills.mjs"
