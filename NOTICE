@@ -1,0 +1,7 @@
+izifete-agent-skills
+Copyright 2026 Izifete (izifete.fr)
+
+This collection of Agent Skills is published by Izifete under the Apache License 2.0.
+Structure inspired by the open Agent Skills standard (https://agentskills.io).
+The optional remote MCP server referenced by these skills is operated by Izifete
+at https://izifete.fr/mcp/mcp.

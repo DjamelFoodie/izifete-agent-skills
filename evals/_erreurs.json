@@ -1,0 +1,38 @@
+[
+ {
+  "id": "C-CAD-016",
+  "attendu": "izifete-imaginer-cadrer-evenement",
+  "choisi": "izifete-planifier-evenement",
+  "piege": false
+ },
+ {
+  "id": "C-BUD-019",
+  "attendu": "izifete-budgeter-evenement",
+  "choisi": "izifete-securiser-prestations",
+  "piege": false
+ },
+ {
+  "id": "C-TRO-016",
+  "attendu": "izifete-trouver-prestataires-evenement",
+  "choisi": "izifete-securiser-prestations",
+  "piege": false
+ },
+ {
+  "id": "P-MET-019",
+  "attendu": "izifete-tarifer-et-devis",
+  "choisi": "izifete-developper-organiser-activite",
+  "piege": false
+ },
+ {
+  "id": "P2-045",
+  "attendu": "izifete-lancer-activite-evenementielle",
+  "choisi": "izifete-tarifer-et-devis",
+  "piege": false
+ },
+ {
+  "id": "P2-199",
+  "attendu": "izifete-trouver-clients-visibilite",
+  "choisi": "izifete-tarifer-et-devis",
+  "piege": true
+ }
+]

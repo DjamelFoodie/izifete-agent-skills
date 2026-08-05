@@ -1,0 +1,402 @@
+[
+ {
+  "id": "C-TRO-011",
+  "q": "comment avoir plusieurs devis d'un coup pour mon mariage"
+ },
+ {
+  "id": "C-TRO-012",
+  "q": "combien de devis je dois demander avant de choisir"
+ },
+ {
+  "id": "C-TRO-013",
+  "q": "quelles questions poser à un photographe avant de le réserver"
+ },
+ {
+  "id": "C-TRO-014",
+  "q": "quelles questions poser à un traiteur pour ne pas avoir de surprise"
+ },
+ {
+  "id": "C-TRO-015",
+  "q": "comment savoir si un DJ va coller à l'ambiance qu'on veut"
+ },
+ {
+  "id": "C-TRO-016",
+  "q": "j'ai reçu trois devis très différents, comment je les compare"
+ },
+ {
+  "id": "C-TRO-017",
+  "q": "je cherche un vidéaste pour un film de mariage à Clermont-Ferrand"
+ },
+ {
+  "id": "C-TRO-018",
+  "q": "une animation pour occuper les enfants pendant la soirée"
+ },
+ {
+  "id": "C-TRO-019",
+  "q": "un pâtissier qui fait des pièces montées près de Villeurbanne"
+ },
+ {
+  "id": "C-TRO-020",
+  "q": "je cherche un décorateur pour un mariage bohème"
+ },
+ {
+  "id": "C-TRO-021",
+  "q": "un chef à domicile pour un repas de famille de 15 personnes"
+ },
+ {
+  "id": "C-TRO-022",
+  "q": "où louer des tables, des chaises et de la vaisselle pour 120 personnes"
+ },
+ {
+  "id": "C-TRO-023",
+  "q": "aucun prestataire dans ma ville, qu'est-ce que je fais"
+ },
+ {
+  "id": "C-TRO-024",
+  "q": "est-ce que les prestataires se déplacent en dehors de leur ville"
+ },
+ {
+  "id": "C-TRO-025",
+  "q": "traiteur pour un cocktail d'entreprise à Paris"
+ },
+ {
+  "id": "C-SEC-001",
+  "q": "comment vérifier qu'un prestataire est une vraie entreprise"
+ },
+ {
+  "id": "C-SEC-002",
+  "q": "on m'a donné un SIRET, comment je sais s'il est valide"
+ },
+ {
+  "id": "C-SEC-003",
+  "q": "mon traiteur me demande 50% d'acompte, c'est normal"
+ },
+ {
+  "id": "C-SEC-004",
+  "q": "que doit contenir un contrat de prestation pour un mariage"
+ },
+ {
+  "id": "C-SEC-005",
+  "q": "le prestataire ne veut pas de contrat écrit, je fais quoi"
+ },
+ {
+  "id": "C-SEC-006",
+  "q": "que se passe-t-il si mon prestataire annule à la dernière minute"
+ },
+ {
+  "id": "C-SEC-007",
+  "q": "puis-je annuler et récupérer mon acompte"
+ },
+ {
+  "id": "C-SEC-008",
+  "q": "quelles assurances doit avoir un prestataire événementiel"
+ },
+ {
+  "id": "C-SEC-009",
+  "q": "comment repérer une arnaque quand on cherche un prestataire"
+ },
+ {
+  "id": "C-SEC-010",
+  "q": "on me demande de payer en espèces sans facture, c'est risqué"
+ },
+ {
+  "id": "C-SEC-011",
+  "q": "à qui appartiennent les photos de mon mariage, au photographe ou à moi"
+ },
+ {
+  "id": "C-SEC-012",
+  "q": "mon traiteur a-t-il le droit de cuisiner sans local aux normes"
+ },
+ {
+  "id": "C-SEC-013",
+  "q": "le prestataire n'est pas venu le jour J, quels sont mes recours"
+ },
+ {
+  "id": "C-SEC-014",
+  "q": "les avis en ligne sont-ils fiables pour choisir un prestataire"
+ },
+ {
+  "id": "C-SEC-015",
+  "q": "je paie pour ma société, quelle facture je dois exiger"
+ },
+ {
+  "id": "C-SEC-016",
+  "q": "la prestation ne correspond pas à ce qui était prévu, je peux refuser de payer"
+ },
+ {
+  "id": "C-PIEGE-001",
+  "q": "un DJ pour un mariage ça coûte combien"
+ },
+ {
+  "id": "C-PIEGE-002",
+  "q": "trouve-moi un DJ à Lyon qui rentre dans un budget de 800 euros"
+ },
+ {
+  "id": "C-PIEGE-003",
+  "q": "mon traiteur est-il vraiment déclaré"
+ },
+ {
+  "id": "C-PIEGE-004",
+  "q": "coiffure du mariage, on la fait avant ou après le maquillage"
+ },
+ {
+  "id": "C-PIEGE-005",
+  "q": "je suis photographe de mariage et je cherche des clients"
+ },
+ {
+  "id": "C-PIEGE-006",
+  "q": "on veut se marier mais on n'a aucune idée de ce qu'on veut"
+ },
+ {
+  "id": "C-ENT-001",
+  "q": "on veut marquer le coup pour les 10 ans de la boîte, quelles idées"
+ },
+ {
+  "id": "C-ENT-002",
+  "q": "un séminaire qui ne soit pas ennuyeux, qu'est-ce qui marche vraiment"
+ },
+ {
+  "id": "C-ENT-003",
+  "q": "budget location de salle de séminaire à la journée"
+ },
+ {
+  "id": "C-ENT-004",
+  "q": "je cherche une animation pour un team building à Lyon"
+ },
+ {
+  "id": "C-ENT-005",
+  "q": "un photobooth avec le logo de l'entreprise pour notre soirée"
+ },
+ {
+  "id": "C-ENT-006",
+  "q": "je veux faire filmer notre soirée d'entreprise pour la com interne"
+ },
+ {
+  "id": "C-ENT-007",
+  "q": "pause café, déjeuner, cocktail : comment je cale la restauration d'un séminaire"
+ },
+ {
+  "id": "C-ENT-008",
+  "q": "notre service achat exige un devis avec conditions générales, que demander"
+ },
+ {
+  "id": "C-ENT-009",
+  "q": "inauguration de nos nouveaux locaux, on prévoit quoi"
+ },
+ {
+  "id": "C-ENT-010",
+  "q": "un chef pour un atelier cuisine en team building"
+ },
+ {
+  "id": "C-ENT-011",
+  "q": "combien coûte une animation pour une soirée de 80 salariés"
+ },
+ {
+  "id": "C-ENT-012",
+  "q": "combien de temps à l'avance organiser une soirée d'entreprise de fin d'année"
+ },
+ {
+  "id": "C-NOE-001",
+  "q": "on organise le repas de Noël du personnel, quelles options"
+ },
+ {
+  "id": "C-NOE-002",
+  "q": "je cherche un père Noël et une animation pour l'arbre de Noël de l'entreprise"
+ },
+ {
+  "id": "C-NOE-003",
+  "q": "un pâtissier pour des bûches et des gourmandises pour 60 personnes"
+ },
+ {
+  "id": "C-NOE-004",
+  "q": "budget par salarié pour une soirée de fin d'année"
+ },
+ {
+  "id": "C-NOE-005",
+  "q": "décembre c'est complet partout, quand faut-il réserver"
+ },
+ {
+  "id": "C-NOE-006",
+  "q": "un décorateur pour habiller nos locaux pour les fêtes"
+ },
+ {
+  "id": "C-EVJ-001",
+  "q": "un EVG qui change du karting et du paintball, des idées"
+ },
+ {
+  "id": "C-EVJ-002",
+  "q": "combien demander à chaque participant pour un EVJF de deux jours"
+ },
+ {
+  "id": "C-EVJ-003",
+  "q": "un atelier maquillage pour un EVJF entre copines"
+ },
+ {
+  "id": "C-EVJ-004",
+  "q": "un photographe pour un shooting entre copines pendant l'EVJF"
+ },
+ {
+  "id": "C-EVJ-005",
+  "q": "un chef à domicile pour le dîner de l'EVJF dans notre location"
+ },
+ {
+  "id": "C-EVJ-006",
+  "q": "on est douze, comment j'organise un week-end EVJF sans que ce soit le bazar"
+ },
+ {
+  "id": "C-BAP-001",
+  "q": "je cherche un pâtissier pour un gâteau de baptême"
+ },
+ {
+  "id": "C-BAP-002",
+  "q": "un photographe pour le baptême de mon fils dimanche matin"
+ },
+ {
+  "id": "C-BAP-003",
+  "q": "je veux une jolie décoration de table pour un baptême, thème bleu"
+ },
+ {
+  "id": "C-BAP-004",
+  "q": "un traiteur pour un baptême de 40 personnes, quel prix par tête"
+ },
+ {
+  "id": "C-BAP-005",
+  "q": "une animation pour occuper une dizaine d'enfants pendant le repas de baptême"
+ },
+ {
+  "id": "C-BAP-006",
+  "q": "louer une tonnelle et des tables pour un baptême dans le jardin"
+ },
+ {
+  "id": "C-ANN-001",
+  "q": "un décorateur pour une fête d'anniversaire sur le thème années 80"
+ },
+ {
+  "id": "C-ANN-002",
+  "q": "un magicien ou un sculpteur de ballons pour les 6 ans de ma fille"
+ },
+ {
+  "id": "C-ANN-003",
+  "q": "un DJ pour une soirée d'anniversaire de 30 personnes chez moi"
+ },
+ {
+  "id": "C-ANN-004",
+  "q": "un gâteau d'anniversaire personnalisé pour 25 personnes"
+ },
+ {
+  "id": "C-ANN-005",
+  "q": "anniversaire surprise, comment je m'organise sans vendre la mèche"
+ },
+ {
+  "id": "C-ANN-006",
+  "q": "louer un photobooth pour un anniversaire, ça se fait"
+ },
+ {
+  "id": "C-ANN-007",
+  "q": "faire filmer les 60 ans de mon père pour lui offrir le film"
+ },
+ {
+  "id": "C-FAM-001",
+  "q": "on veut réunir toute la famille, 60 personnes, sur une journée"
+ },
+ {
+  "id": "C-FAM-002",
+  "q": "un food truck pour une grande réunion de famille dans le jardin"
+ },
+ {
+  "id": "C-FAM-003",
+  "q": "un photographe pour une photo de famille avec quatre générations"
+ },
+ {
+  "id": "C-FAM-004",
+  "q": "on partage les frais entre cousins, comment on chiffre"
+ },
+ {
+  "id": "C-FAM-005",
+  "q": "louer une sono et des tables pour une fête de famille"
+ },
+ {
+  "id": "C-FAM-006",
+  "q": "communion de ma fille, quel déroulé pour la journée"
+ },
+ {
+  "id": "C-ASS-001",
+  "q": "on organise un vide-grenier avec buvette, qu'est-ce qu'on doit prévoir"
+ },
+ {
+  "id": "C-ASS-002",
+  "q": "je cherche des food trucks pour la fête de la musique de notre commune"
+ },
+ {
+  "id": "C-ASS-003",
+  "q": "un DJ et une animation pour le bal du 14 juillet du village"
+ },
+ {
+  "id": "C-ASS-004",
+  "q": "louer des barnums, des tables et des bancs pour une fête associative"
+ },
+ {
+  "id": "C-ASS-005",
+  "q": "budget d'une fête de village de 300 personnes financée par l'association"
+ },
+ {
+  "id": "C-ASS-006",
+  "q": "notre association engage un prestataire, quelles précautions particulières"
+ },
+ {
+  "id": "C-ASS-007",
+  "q": "on est tous bénévoles, comment on répartit les rôles le jour J"
+ },
+ {
+  "id": "C-MET-001",
+  "q": "un décorateur pour scénographier notre salle de conférence"
+ },
+ {
+  "id": "C-MET-002",
+  "q": "faire décorer une salle pour un anniversaire, ça coûte combien"
+ },
+ {
+  "id": "C-MET-003",
+  "q": "louer du mobilier lounge pour un cocktail d'entreprise"
+ },
+ {
+  "id": "C-MET-004",
+  "q": "faire filmer et monter un aftermovie, quel budget"
+ },
+ {
+  "id": "C-MET-005",
+  "q": "des desserts individuels haut de gamme pour un cocktail de 100 personnes"
+ },
+ {
+  "id": "C-MET-006",
+  "q": "à quel moment placer l'animation pour que les enfants ne s'ennuient pas"
+ },
+ {
+  "id": "C-MET-007",
+  "q": "des compositions florales pour une communion"
+ },
+ {
+  "id": "C-MET-008",
+  "q": "on veut un coin coiffure et maquillage sur notre événement clients"
+ },
+ {
+  "id": "P-MET-001",
+  "q": "je suis décoratrice événementielle, comment décrocher des contrats entreprise"
+ },
+ {
+  "id": "P-MET-002",
+  "q": "je facture la déco au forfait ou au détail, et je compte le démontage comment"
+ },
+ {
+  "id": "P-MET-003",
+  "q": "me lancer comme décoratrice événementielle, quel investissement de départ"
+ },
+ {
+  "id": "P-MET-004",
+  "q": "combien facturer une animation d'une heure pour des enfants"
+ },
+ {
+  "id": "P-MET-005",
+  "q": "comment me faire connaître des comités d'entreprise"
+ }
+]

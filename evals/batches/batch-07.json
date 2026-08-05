@@ -1,0 +1,402 @@
+[
+ {
+  "id": "P-MET-006",
+  "q": "je veux proposer plusieurs animations en même temps, il me faut une équipe"
+ },
+ {
+  "id": "P-MET-007",
+  "q": "combien je facture le tournage et combien le montage"
+ },
+ {
+  "id": "P-MET-008",
+  "q": "quelle vitrine pour un vidéaste, un site ou juste Instagram"
+ },
+ {
+  "id": "P-MET-009",
+  "q": "droit à l'image et musique, à quoi je fais attention en vidéo d'événement"
+ },
+ {
+  "id": "P-MET-010",
+  "q": "comment je calcule le prix d'un gâteau à étages"
+ },
+ {
+  "id": "P-MET-011",
+  "q": "pâtissière à domicile, ai-je le droit de vendre depuis ma cuisine"
+ },
+ {
+  "id": "P-MET-012",
+  "q": "comment me faire connaître comme cake designer dans ma région"
+ },
+ {
+  "id": "P-MET-013",
+  "q": "je loue du matériel, comment je fixe la caution et les pénalités de casse"
+ },
+ {
+  "id": "P-MET-014",
+  "q": "mon stock de matériel tourne mal, comment je l'optimise"
+ },
+ {
+  "id": "P-MET-015",
+  "q": "comment travailler avec les traiteurs et les salles pour louer plus"
+ },
+ {
+  "id": "P-MET-016",
+  "q": "comment décrocher des contrats de fleurs pour des entreprises et pas que des mariages"
+ },
+ {
+  "id": "P-MET-017",
+  "q": "je chiffre mes compositions au coût des fleurs ou au temps passé"
+ },
+ {
+  "id": "P-MET-018",
+  "q": "comment attirer des séminaires en semaine dans mon lieu de réception"
+ },
+ {
+  "id": "P-MET-019",
+  "q": "je loue mon lieu seul ou avec des prestataires imposés"
+ },
+ {
+  "id": "P-MET-020",
+  "q": "comment louer mon photobooth aux entreprises et pas seulement aux mariages"
+ },
+ {
+  "id": "P-MET-021",
+  "q": "chef à domicile, je facture les courses en plus ou tout compris"
+ },
+ {
+  "id": "P-MET-022",
+  "q": "comment trouver des clients réguliers comme chef à domicile"
+ },
+ {
+  "id": "P-MET-023",
+  "q": "comment décrocher des soirées d'entreprise quand on ne fait que du mariage"
+ },
+ {
+  "id": "P-MET-024",
+  "q": "comment je gère mes commandes fournisseurs quand j'ai trois événements la même semaine"
+ },
+ {
+  "id": "C-PIEGE-007",
+  "q": "on veut faire une fête pour le village mais on ne sait pas quoi proposer"
+ },
+ {
+  "id": "C-PIEGE-008",
+  "q": "un traiteur pas trop cher pour notre repas de Noël d'entreprise à Grenoble"
+ },
+ {
+  "id": "P-PIEGE-007",
+  "q": "je n'arrive plus à tout monter et démonter toute seule"
+ },
+ {
+  "id": "E-CLI-001",
+  "q": "je cherche un bar à ongles à installer pour un EVJF à Bordeaux"
+ },
+ {
+  "id": "E-CLI-002",
+  "q": "une esthéticienne pour les soins de la mariée le matin du mariage"
+ },
+ {
+  "id": "E-CLI-003",
+  "q": "à combien de jours du mariage faire mon épilation et mes soins du visage"
+ },
+ {
+  "id": "E-CLI-004",
+  "q": "on veut un stand bien-être avec massages express pour notre séminaire"
+ },
+ {
+  "id": "E-CLI-005",
+  "q": "combien coûte un atelier ongles à domicile pour six copines"
+ },
+ {
+  "id": "E-CLI-006",
+  "q": "je veux offrir un moment détente aux demoiselles d'honneur, soins et manucure"
+ },
+ {
+  "id": "E-PRO-001",
+  "q": "je veux devenir esthéticienne à domicile pour les mariages, par où commencer"
+ },
+ {
+  "id": "E-PRO-002",
+  "q": "faut-il un CAP esthétique pour proposer des soins et de l'épilation"
+ },
+ {
+  "id": "E-PRO-003",
+  "q": "quelle assurance pour une prothésiste ongulaire qui se déplace en événement"
+ },
+ {
+  "id": "E-PRO-004",
+  "q": "je facture combien un bar à ongles pour un EVJF d'une demi-journée"
+ },
+ {
+  "id": "E-PRO-005",
+  "q": "quel forfait pour les soins de la mariée plus ses témoins"
+ },
+ {
+  "id": "E-PRO-006",
+  "q": "comment trouver des mariées à qui proposer mes soins pré-mariage"
+ },
+ {
+  "id": "E-PRO-007",
+  "q": "comment décrocher des ateliers bien-être en entreprise"
+ },
+ {
+  "id": "E-PRO-008",
+  "q": "je suis esthéticienne, comment je m'inscris et je remplis mon profil sur Izifete"
+ },
+ {
+  "id": "E-PRO-009",
+  "q": "je suis seule et je n'arrive pas à tenir plusieurs EVJF le même week-end"
+ },
+ {
+  "id": "E-PIEGE-001",
+  "q": "je facture combien une pose d'ongles pour un mariage"
+ },
+ {
+  "id": "E-PIEGE-002",
+  "q": "je cherche quelqu'un pour maquiller la mariée, pas pour les ongles"
+ },
+ {
+  "id": "P2-001",
+  "q": "mon contrat en salon a une clause d'exclusivité, je peux quand même coiffer des mariées le dimanche ?"
+ },
+ {
+  "id": "P2-002",
+  "q": "quel matériel il me faut au minimum pour démarrer les chignons de mariée à domicile"
+ },
+ {
+  "id": "P2-003",
+  "q": "j'ai le CAP coiffure mais pas le brevet professionnel, je peux exercer à domicile quand même ?"
+ },
+ {
+  "id": "P2-004",
+  "q": "coiffeuse à domicile, je dois m'immatriculer à la chambre des métiers ou juste à l'URSSAF"
+ },
+ {
+  "id": "P2-005",
+  "q": "si je rate une décoloration juste avant un mariage, je suis couverte par quoi exactement"
+ },
+ {
+  "id": "P2-006",
+  "q": "j'ai le droit de revendre des accessoires cheveux et des soins à mes mariées en plus de la prestation ?"
+ },
+ {
+  "id": "P2-007",
+  "q": "je garde mon CDI à mi-temps et je maquille des mariées le samedi, je déclare ça comment"
+ },
+ {
+  "id": "P2-008",
+  "q": "hygiène des pinceaux entre deux clientes : il existe des règles officielles ou c'est juste du bon sens ?"
+ },
+ {
+  "id": "P2-009",
+  "q": "quel budget prévoir pour monter ma première mallette de maquilleuse pro"
+ },
+ {
+  "id": "P2-010",
+  "q": "pour maquiller des enfants en anniversaire, il faut des produits homologués spécifiques ?"
+ },
+ {
+  "id": "P2-011",
+  "q": "je suis esthéticienne diplômée, c'est la même activité que maquilleuse mariage ou je dois me déclarer autrement"
+ },
+ {
+  "id": "P2-012",
+  "q": "poser des faux cils le jour J sans diplôme d'esthétique, j'ai le droit ou pas"
+ },
+ {
+  "id": "P2-013",
+  "q": "je compose mes bouquets dans mon garage sans boutique, c'est légal de les vendre pour des mariages ?"
+ },
+ {
+  "id": "P2-014",
+  "q": "on m'a dit qu'il fallait un SIRET pour acheter au marché de gros aux fleurs, c'est vrai ?"
+ },
+ {
+  "id": "P2-015",
+  "q": "une chambre froide c'est indispensable avant de me lancer ou je peux commencer sans"
+ },
+ {
+  "id": "P2-016",
+  "q": "il faut le CAP fleuriste pour se déclarer ou n'importe qui peut ouvrir une activité florale ?"
+ },
+ {
+  "id": "P2-017",
+  "q": "je me lance dans le floral de mariage, j'investis dans quoi en premier"
+ },
+ {
+  "id": "P2-018",
+  "q": "mon camion aménagé doit repasser aux mines avant que j'aie le droit de vendre dedans ?"
+ },
+ {
+  "id": "P2-019",
+  "q": "je retape un vieux fourgon en food truck moi-même, quelles normes pour la partie cuisine"
+ },
+ {
+  "id": "P2-020",
+  "q": "la carte de commerçant ambulant, il me la faut même si je reste dans mon département ?"
+ },
+ {
+  "id": "P2-021",
+  "q": "brancher mon food truck sur un groupe électrogène pendant un mariage, il y a des règles de sécurité ?"
+ },
+ {
+  "id": "P2-022",
+  "q": "servir de la bière depuis mon camion sur un événement privé, il me faut une licence ?"
+ },
+ {
+  "id": "P2-023",
+  "q": "pour débuter, un camion d'occasion ou une remorque neuve, qu'est-ce qui est le plus raisonnable"
+ },
+ {
+  "id": "P2-024",
+  "q": "je veux louer ma grange pour des mariages, est-ce qu'elle doit être classée ERP ?"
+ },
+ {
+  "id": "P2-025",
+  "q": "combien de personnes je peux accueillir dans ma salle avant qu'une commission de sécurité s'en mêle"
+ },
+ {
+  "id": "P2-026",
+  "q": "les voisins menacent de porter plainte pour le bruit, qu'est-ce que je risque vraiment en louant mon domaine"
+ },
+ {
+  "id": "P2-027",
+  "q": "ma multirisque habitation suffit pour couvrir des mariages dans ma propriété ou il faut un contrat spécial ?"
+ },
+ {
+  "id": "P2-028",
+  "q": "louer mon château en nom propre ou monter une société, qu'est-ce qui est le plus sain"
+ },
+ {
+  "id": "P2-029",
+  "q": "les mariés amènent leur propre alcool dans ma salle, c'est moi qui dois avoir une licence ?"
+ },
+ {
+  "id": "P2-030",
+  "q": "je fabrique mes bornes photo moi-même, elles doivent respecter des normes électriques ?"
+ },
+ {
+  "id": "P2-031",
+  "q": "les photos prises par ma borne, j'ai des obligations RGPD vis-à-vis des invités ?"
+ },
+ {
+  "id": "P2-032",
+  "q": "je suis étudiant et je veux louer des photobooths le week-end, quel statut le plus simple pour commencer"
+ },
+ {
+  "id": "P2-033",
+  "q": "une borne photo importée de Chine, j'ai le droit de la louer telle quelle en France ?"
+ },
+ {
+  "id": "P2-034",
+  "q": "je démarre avec une seule borne ou il en faut plusieurs dès le début ?"
+ },
+ {
+  "id": "P2-035",
+  "q": "je loue un labo partagé quelques heures par semaine, ça passe pour me déclarer traiteur ?"
+ },
+ {
+  "id": "P2-036",
+  "q": "je dois déclarer mon laboratoire à la DDPP avant ma première prestation ou après ?"
+ },
+ {
+  "id": "P2-037",
+  "q": "quelles règles de température pour transporter mes plats jusqu'au lieu de réception"
+ },
+ {
+  "id": "P2-038",
+  "q": "chef à domicile, je cuisine chez le client, donc pas besoin de laboratoire déclaré, c'est bien ça ?"
+ },
+ {
+  "id": "P2-039",
+  "q": "mon contrat de chef salarié peut m'interdire les prestations à domicile le week-end ?"
+ },
+ {
+  "id": "P2-040",
+  "q": "je dois afficher les allergènes sur mes gâteaux de mariage même pour des particuliers ?"
+ },
+ {
+  "id": "P2-041",
+  "q": "transporter une pièce montée à la crème sur 100 bornes en plein été, il y a des obligations de froid ?"
+ },
+ {
+  "id": "P2-042",
+  "q": "cake designer sans CAP pâtisserie, c'est autorisé ou pas ?"
+ },
+ {
+  "id": "P2-043",
+  "q": "DJ : micro-entreprise ou intermittent du spectacle, qu'est-ce qui correspond à ma situation"
+ },
+ {
+  "id": "P2-044",
+  "q": "mon matériel de sono dans le coffre de la voiture, il est assuré par quoi pendant les trajets ?"
+ },
+ {
+  "id": "P2-045",
+  "q": "je dois faire signer un vrai contrat aux mariés avec cession de droits ou une simple facture suffit ?"
+ },
+ {
+  "id": "P2-046",
+  "q": "on veut me payer mon premier mariage alors que je n'ai pas encore mon SIRET, je fais quoi ?"
+ },
+ {
+  "id": "P2-047",
+  "q": "filmer un mariage au drone, il me faut quelle formation et quelles autorisations ?"
+ },
+ {
+  "id": "P2-048",
+  "q": "vidéaste : statut d'artiste-auteur ou micro-entreprise classique, comment choisir"
+ },
+ {
+  "id": "P2-049",
+  "q": "j'ai le droit de suspendre des décorations au plafond d'une salle ou il faut une habilitation ?"
+ },
+ {
+  "id": "P2-050",
+  "q": "je stocke mes arches et mes décors dans mon garage, mon assurance habitation couvre ça ?"
+ },
+ {
+  "id": "P2-051",
+  "q": "le BAFA est obligatoire pour animer des anniversaires d'enfants chez des particuliers ?"
+ },
+ {
+  "id": "P2-052",
+  "q": "spectacle de feu en mariage : il me faut une autorisation ou juste une bonne assurance ?"
+ },
+ {
+  "id": "P2-053",
+  "q": "mes structures gonflables doivent être contrôlées tous les ans par un organisme ?"
+ },
+ {
+  "id": "P2-054",
+  "q": "un client me rend une machine cassée, c'est son assurance ou la mienne qui joue ?"
+ },
+ {
+  "id": "P2-055",
+  "q": "l'ACRE, j'y ai droit en créant mon activité événementielle ?"
+ },
+ {
+  "id": "P2-056",
+  "q": "on se lance à deux avec ma sœur, on fait deux micro-entreprises ou une société ensemble ?"
+ },
+ {
+  "id": "P2-057",
+  "q": "ma fiche affiche une ancienne adresse, comment je corrige mes informations ?"
+ },
+ {
+  "id": "P2-058",
+  "q": "je peux mettre une vidéo de présentation sur mon profil ou seulement des photos ?"
+ },
+ {
+  "id": "P2-059",
+  "q": "je pars en congés un mois, comment je mets mon profil en pause sans le supprimer"
+ },
+ {
+  "id": "P2-060",
+  "q": "quelle longueur pour ma description, trois lignes ou trois paragraphes ?"
+ },
+ {
+  "id": "P2-061",
+  "q": "des photos avant/après de mes chignons, c'est une bonne idée sur mon profil ?"
+ }
+]

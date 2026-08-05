@@ -1,0 +1,21 @@
+{
+  "name": "izifete",
+  "owner": {
+    "name": "Izifete",
+    "email": "contact@izifete.fr"
+  },
+  "description": "Skills et MCP Izifete pour l'organisation d'événements et les prestataires événementiels en France.",
+  "plugins": [
+    {
+      "name": "izifete",
+      "source": ".",
+      "description": "9 workflows publics couvrant l'organisation d'événements (particuliers et entreprises) et le développement d'une activité de prestataire événementiel.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Izifete",
+        "email": "contact@izifete.fr"
+      },
+      "homepage": "https://izifete.fr/mcp"
+    }
+  ]
+}

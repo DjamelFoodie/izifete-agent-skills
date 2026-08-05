@@ -1,0 +1,18 @@
+display_name: "Izifete — Trouver des clients (prestataires)"
+short_description: "Aider un prestataire événementiel en France (DJ, traiteur, photographe…) à trouver des clients et gagner en visibilité : canaux d'acquisition, profil qui convertit, réactivité, avis."
+default_prompt: |
+  Utilise $izifete-trouver-clients-visibilite pour m'aider à développer ma clientèle en tant
+  que prestataire événementiel en France : fais l'état des lieux de mes canaux actuels
+  (fiche Google, réseaux, avis, partenariats, plateformes), propose-moi un plan d'action
+  priorisé avec les délais réalistes de chaque levier, et aide-moi à améliorer mon profil,
+  ma réactivité et ma collecte d'avis pour convertir plus de demandes en contrats.
+  Appuie-toi sur les repères vérifiés d'Izifete (outil conseils_prestataire) sans jamais
+  me promettre un volume de clients.
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: "streamable_http"
+      url: "https://izifete.fr/mcp/mcp"
+policy:
+  allow_implicit_invocation: true

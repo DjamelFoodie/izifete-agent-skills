@@ -1,0 +1,32 @@
+{
+  "name": "izifete-agent-skills",
+  "version": "0.1.0",
+  "description": "9 workflows en français pour organiser un événement en France et développer une activité de prestataire événementiel, avec les actions du MCP Izifete.",
+  "author": {
+    "name": "Izifete",
+    "email": "contact@izifete.fr",
+    "url": "https://izifete.fr/"
+  },
+  "homepage": "https://izifete.fr/mcp",
+  "repository": "https://github.com/izifete/izifete-agent-skills",
+  "keywords": ["evenement", "mariage", "traiteur", "dj", "photographe", "prestataire", "mcp", "agent-skills"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Izifete — Événements et prestataires",
+    "shortDescription": "Organiser un événement et développer une activité de prestataire.",
+    "longDescription": "Neuf workflows cohérents : imaginer et cadrer un événement, le budgéter, le planifier (rétroplanning, quantités, logistique), trouver et vérifier des prestataires, sécuriser les prestations (devis, contrats, acomptes), puis créer son profil de prestataire, trouver des clients, fixer ses tarifs et se lancer dans l'événementiel. Les actions passent par le MCP Izifete avec confirmation avant toute écriture et validation humaine avant transmission.",
+    "developerName": "Izifete",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "websiteURL": "https://izifete.fr/",
+    "privacyPolicyURL": "https://izifete.fr/politique-confidentialite",
+    "termsOfServiceURL": "https://izifete.fr/cgu",
+    "defaultPrompt": [
+      "Quel budget prévoir pour un mariage de 100 personnes ?",
+      "Trouve-moi un traiteur à Lyon pour un anniversaire.",
+      "Je suis DJ : comment trouver plus de clients ?"
+    ],
+    "brandColor": "#7C3AED"
+  }
+}

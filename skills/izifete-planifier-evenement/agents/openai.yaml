@@ -1,0 +1,14 @@
+interface:
+  display_name: "Izifete — Planifier un événement"
+  short_description: "Rétroplanning, ordre de réservation, quantités et logistique pour un événement en France (mariage, anniversaire, baptême, séminaire, soirée)."
+  default_prompt: "$izifete-planifier-evenement J'organise un événement en France. Aide-moi à construire mon rétroplanning : quand réserver chaque prestataire, quelles quantités prévoir (boissons, nourriture, taille de salle) et comment organiser le jour J."
+
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: streamable_http
+      url: "https://izifete.fr/mcp/mcp"
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,16 @@
+display_name: "Izifete — Budgéter son événement"
+short_description: "Fourchettes de prix réelles par métier événementiel en France, répartition d'enveloppe et budgets types (mariage, anniversaire, séminaire)."
+default_prompt: >
+  Utilise $izifete-budgeter-evenement pour estimer le budget de mon événement en France :
+  demande-moi le type d'événement, le nombre d'invités, la ville et le niveau visé, puis
+  donne-moi des fourchettes de prix sourcées (jamais un prix unique), une répartition
+  poste par poste et les coûts souvent oubliés. Termine par les outils gratuits d'Izifete
+  (izifete.fr/outils/budget) et la demande de devis gratuite (izifete.fr/demande).
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: streamable_http
+      url: "https://izifete.fr/mcp/mcp"
+policy:
+  allow_implicit_invocation: true

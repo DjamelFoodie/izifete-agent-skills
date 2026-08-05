@@ -1,0 +1,402 @@
+[
+ {
+  "id": "P2-262",
+  "q": "je refuse des soirées d'entreprise en semaine parce que j'ai un travail le jour, je saute le pas quand ?"
+ },
+ {
+  "id": "P2-263",
+  "q": "mon deuxième kit de sono dort dans le garage, je forme un DJ junior pour le faire tourner ?"
+ },
+ {
+  "id": "P2-264",
+  "q": "après quatre mariages d'affilée je suis rincé et moins bon, comment je protège ma qualité de mix ?"
+ },
+ {
+  "id": "P2-265",
+  "q": "la retouche me prend mes nuits, j'externalise le tri et l'editing ou je livre moins de photos ?"
+ },
+ {
+  "id": "P2-266",
+  "q": "un second shooter à former ou un confrère déjà pro à qui reverser une part, qu'est-ce qui tient la route ?"
+ },
+ {
+  "id": "P2-267",
+  "q": "je shoote trente mariages par an et je n'ai pas vu grandir mes enfants, comment on redescend sans couler la boîte ?"
+ },
+ {
+  "id": "P2-268",
+  "q": "mes rushs s'empilent et je livre les films avec des mois de retard, comment je rattrape sans bâcler ?"
+ },
+ {
+  "id": "P2-269",
+  "q": "je veux confier mes montages à un monteur freelance, comment garder ma patte ?"
+ },
+ {
+  "id": "P2-270",
+  "q": "drone, second angle, interviews : chaque mariage devient une usine, je simplifie quoi sans perdre en valeur ?"
+ },
+ {
+  "id": "P2-271",
+  "q": "mon stock de déco dort onze mois par an, je le loue à d'autres pros ou je le revends ?"
+ },
+ {
+  "id": "P2-272",
+  "q": "les démontages de nuit après la fête m'épuisent, comment les décoratrices organisent la dépose ?"
+ },
+ {
+  "id": "P2-273",
+  "q": "je refuse les grosses scénographies faute de bras et de camion, lequel des deux je règle en premier ?"
+ },
+ {
+  "id": "P2-274",
+  "q": "mes spectacles reposent sur ma personne, comment je vends des dates sans être présent partout ?"
+ },
+ {
+  "id": "P2-275",
+  "q": "je veux monter un deuxième spectacle pour tourner plus, je le finance et je le teste comment ?"
+ },
+ {
+  "id": "P2-276",
+  "q": "mon planning d'anniversaires est troué d'annulations de dernière minute, je structure ça comment ?"
+ },
+ {
+  "id": "P2-277",
+  "q": "mes remorques reviennent sales et incomplètes, je mets en place quel contrôle au retour du matériel ?"
+ },
+ {
+  "id": "P2-278",
+  "q": "j'ai du matériel immobilisé et des cautions bloquées, comment les loueurs gèrent leur trésorerie ?"
+ },
+ {
+  "id": "P2-279",
+  "q": "livraisons le vendredi, reprises le lundi : mon planning de tournées devient fou, je m'outille comment ?"
+ },
+ {
+  "id": "P2-280",
+  "q": "un deuxième dépôt à l'autre bout du département pour livrer plus vite, à partir de quand ça se justifie ?"
+ },
+ {
+  "id": "P-LAN-001",
+  "q": "je veux lancer mon food truck, par où je commence"
+ },
+ {
+  "id": "P-LAN-002",
+  "q": "quel statut juridique pour un food truck en France"
+ },
+ {
+  "id": "P-LAN-003",
+  "q": "quelles autorisations pour vendre de la nourriture sur la voie publique"
+ },
+ {
+  "id": "P-LAN-004",
+  "q": "la formation HACCP est-elle obligatoire pour moi"
+ },
+ {
+  "id": "P-LAN-005",
+  "q": "je veux me lancer comme traiteur, quelles obligations d'hygiène"
+ },
+ {
+  "id": "P-LAN-006",
+  "q": "devenir chef à domicile, quel statut et quelles démarches"
+ },
+ {
+  "id": "P-LAN-007",
+  "q": "je débute comme DJ, dois-je déclarer la SACEM"
+ },
+ {
+  "id": "P-LAN-008",
+  "q": "je me lance comme photographe de mariage, micro-entreprise ou société"
+ },
+ {
+  "id": "P-LAN-009",
+  "q": "je suis coiffeuse et je veux travailler à domicile pour les mariages, comment je m'y prends"
+ },
+ {
+  "id": "P-LAN-010",
+  "q": "faut-il un diplôme pour être coiffeuse à domicile"
+ },
+ {
+  "id": "P-LAN-011",
+  "q": "devenir maquilleuse professionnelle mariage, quelles démarches"
+ },
+ {
+  "id": "P-LAN-012",
+  "q": "est-ce que je peux être maquilleuse sans CAP esthétique"
+ },
+ {
+  "id": "P-LAN-013",
+  "q": "je veux acheter un photobooth et le louer, c'est rentable"
+ },
+ {
+  "id": "P-LAN-014",
+  "q": "fleuriste indépendante spécialisée mariage, comment démarrer"
+ },
+ {
+  "id": "P-LAN-015",
+  "q": "quelle assurance professionnelle pour un prestataire événementiel"
+ },
+ {
+  "id": "P-LAN-016",
+  "q": "responsabilité civile professionnelle, c'est obligatoire ou pas"
+ },
+ {
+  "id": "P-LAN-017",
+  "q": "je veux louer du matériel de réception, quel cadre légal"
+ },
+ {
+  "id": "P-LAN-018",
+  "q": "j'ai un domaine, je voudrais le louer pour des mariages"
+ },
+ {
+  "id": "P-LAN-019",
+  "q": "je fais de l'animation enfant, quel statut choisir"
+ },
+ {
+  "id": "P-LAN-020",
+  "q": "je suis salarié, puis-je faire des prestations événementielles à côté"
+ },
+ {
+  "id": "P-LAN-021",
+  "q": "vidéaste indépendant, comment déclarer mon activité"
+ },
+ {
+  "id": "P-LAN-022",
+  "q": "combien coûte le lancement d'un food truck tout compris"
+ },
+ {
+  "id": "P-PRO-001",
+  "q": "comment m'inscrire sur Izifete comme prestataire"
+ },
+ {
+  "id": "P-PRO-002",
+  "q": "j'ai reçu un mail disant qu'une fiche existe déjà à mon nom, c'est quoi"
+ },
+ {
+  "id": "P-PRO-003",
+  "q": "comment réclamer ma fiche prestataire"
+ },
+ {
+  "id": "P-PRO-004",
+  "q": "je ne veux pas apparaître, comment faire retirer ma fiche"
+ },
+ {
+  "id": "P-PRO-005",
+  "q": "qu'est-ce que je dois écrire dans ma présentation pour convaincre"
+ },
+ {
+  "id": "P-PRO-006",
+  "q": "combien de photos je dois mettre sur mon profil"
+ },
+ {
+  "id": "P-PRO-007",
+  "q": "quelles photos mettre en avant quand on débute et qu'on a peu de réalisations"
+ },
+ {
+  "id": "P-PRO-008",
+  "q": "pourquoi mon profil n'apparaît pas dans les recherches"
+ },
+ {
+  "id": "P-PRO-009",
+  "q": "c'est quoi le badge vérifié et comment l'obtenir"
+ },
+ {
+  "id": "P-PRO-010",
+  "q": "je fais plusieurs métiers, je peux les mettre tous sur mon profil"
+ },
+ {
+  "id": "P-PRO-011",
+  "q": "jusqu'où je dois indiquer mon rayon de déplacement"
+ },
+ {
+  "id": "P-PRO-012",
+  "q": "je n'ai pas encore de SIRET, je peux quand même m'inscrire"
+ },
+ {
+  "id": "P-PRO-013",
+  "q": "les erreurs qui font qu'un profil ne reçoit aucune demande"
+ },
+ {
+  "id": "P-PRO-014",
+  "q": "je suis coiffeuse-maquilleuse, je mets les deux ou je choisis"
+ },
+ {
+  "id": "P-PRO-015",
+  "q": "puis-je mettre mon numéro de téléphone dans ma description"
+ },
+ {
+  "id": "P-PRO-016",
+  "q": "combien de temps avant que mon profil soit validé"
+ },
+ {
+  "id": "P-TAR-001",
+  "q": "comment je fixe mes tarifs quand je débute"
+ },
+ {
+  "id": "P-TAR-002",
+  "q": "je crois que je suis trop cher, comment je le sais"
+ },
+ {
+  "id": "P-TAR-003",
+  "q": "quel tarif journée pour un photographe de mariage débutant"
+ },
+ {
+  "id": "P-TAR-004",
+  "q": "combien facturer une coiffure de mariée à domicile"
+ },
+ {
+  "id": "P-TAR-005",
+  "q": "je facture combien l'essai coiffure avant le mariage"
+ },
+ {
+  "id": "P-TAR-006",
+  "q": "tarif maquillage mariée plus les demoiselles d'honneur, je fais un forfait"
+ },
+ {
+  "id": "P-TAR-007",
+  "q": "comment je calcule mon prix de vente sur un food truck"
+ },
+ {
+  "id": "P-TAR-008",
+  "q": "je facture au menu ou au forfait, qu'est-ce qui est mieux"
+ },
+ {
+  "id": "P-TAR-009",
+  "q": "je facture mes déplacements comment"
+ },
+ {
+  "id": "P-TAR-010",
+  "q": "que doit contenir un devis professionnel"
+ },
+ {
+  "id": "P-TAR-011",
+  "q": "combien de temps mon devis reste valable"
+ },
+ {
+  "id": "P-TAR-012",
+  "q": "quel acompte demander et quand"
+ },
+ {
+  "id": "P-TAR-013",
+  "q": "le client ne répond pas à mon devis, je relance quand"
+ },
+ {
+  "id": "P-TAR-014",
+  "q": "on me demande une remise, je fais quoi"
+ },
+ {
+  "id": "P-TAR-015",
+  "q": "comment justifier mon prix face à un concurrent moins cher"
+ },
+ {
+  "id": "P-TAR-016",
+  "q": "tarif DJ mariage sur une soirée complète, je me situe où"
+ },
+ {
+  "id": "P-TAR-017",
+  "q": "je majore les samedis et les jours fériés, c'est légitime"
+ },
+ {
+  "id": "P-TAR-018",
+  "q": "je loue mon photobooth à la journée ou à l'heure"
+ },
+ {
+  "id": "P-TAR-019",
+  "q": "faut-il afficher ses prix publiquement ou pas"
+ },
+ {
+  "id": "P-TAR-020",
+  "q": "comment chiffrer une décoration florale de mariage complète"
+ },
+ {
+  "id": "P-CLI-001",
+  "q": "comment trouver plus de clients avec mon food truck"
+ },
+ {
+  "id": "P-CLI-002",
+  "q": "comment trouver un bon emplacement pour mon food truck"
+ },
+ {
+  "id": "P-CLI-003",
+  "q": "comment me faire connaître des mariages avec mon camion"
+ },
+ {
+  "id": "P-CLI-004",
+  "q": "je n'ai aucune demande, qu'est-ce que je fais de mal"
+ },
+ {
+  "id": "P-CLI-005",
+  "q": "où trouver mes premiers clients quand je démarre"
+ },
+ {
+  "id": "P-CLI-006",
+  "q": "comment trouver des mariées à coiffer quand on démarre"
+ },
+ {
+  "id": "P-CLI-007",
+  "q": "comment me faire connaître comme maquilleuse mariage dans ma région"
+ },
+ {
+  "id": "P-CLI-008",
+  "q": "est-ce que je dois travailler avec des wedding planners pour avoir des clients"
+ },
+ {
+  "id": "P-CLI-009",
+  "q": "Instagram ou Google, qu'est-ce qui marche le mieux pour un prestataire événementiel"
+ },
+ {
+  "id": "P-CLI-010",
+  "q": "faut-il un site internet quand on est prestataire de mariage"
+ },
+ {
+  "id": "P-CLI-011",
+  "q": "comment obtenir mes premiers avis clients"
+ },
+ {
+  "id": "P-CLI-012",
+  "q": "comment demander un avis sans mettre le client mal à l'aise"
+ },
+ {
+  "id": "P-CLI-013",
+  "q": "j'ai reçu un mauvais avis, comment je réponds"
+ },
+ {
+  "id": "P-CLI-014",
+  "q": "les salons du mariage, ça vaut le coup ou pas"
+ },
+ {
+  "id": "P-CLI-015",
+  "q": "je reçois des demandes mais je ne les transforme pas en contrats"
+ },
+ {
+  "id": "P-CLI-016",
+  "q": "en combien de temps je dois répondre à une demande de devis"
+ },
+ {
+  "id": "P-CLI-017",
+  "q": "comment travailler avec d'autres prestataires pour se recommander"
+ },
+ {
+  "id": "P-CLI-018",
+  "q": "comment remplir mon planning en basse saison"
+ },
+ {
+  "id": "P-CLI-019",
+  "q": "comment sortir du lot quand il y a 200 photographes dans ma ville"
+ },
+ {
+  "id": "P-CLI-020",
+  "q": "comment remplir mon domaine sur les week-ends creux"
+ },
+ {
+  "id": "P-CLI-021",
+  "q": "faut-il payer de la publicité pour avoir des clients événementiels"
+ },
+ {
+  "id": "P-CLI-022",
+  "q": "à qui je propose mon photobooth en dehors des mariages"
+ },
+ {
+  "id": "P-DEV-001",
+  "q": "je refuse des dates parce que je suis seul, comment je grandis"
+ }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "izifete",
+  "displayName": "Izifete — Événements et prestataires",
+  "version": "0.1.0",
+  "description": "9 workflows en français pour organiser un événement en France (budget, planning, prestataires) et développer une activité de prestataire événementiel avec le MCP Izifete.",
+  "author": {
+    "name": "Izifete",
+    "email": "contact@izifete.fr"
+  },
+  "homepage": "https://izifete.fr/mcp",
+  "repository": "https://github.com/izifete/izifete-agent-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "evenement",
+    "mariage",
+    "traiteur",
+    "dj",
+    "photographe",
+    "mcp",
+    "agent-skills"
+  ],
+  "category": "productivity",
+  "tags": [
+    "events",
+    "wedding",
+    "event-planning",
+    "vendors",
+    "small-business"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

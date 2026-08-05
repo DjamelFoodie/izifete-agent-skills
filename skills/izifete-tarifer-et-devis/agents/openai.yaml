@@ -1,0 +1,18 @@
+display_name: "Izifete — Tarifer et faire des devis (prestataires)"
+short_description: "Aide un prestataire événementiel français à fixer ses tarifs avec des fourchettes de marché sourcées et à produire des devis professionnels conformes (TVA/franchise 293 B, acompte, signature, PDF)."
+default_prompt: |
+  Utilise $izifete-tarifer-et-devis pour aider ce prestataire événementiel en France.
+  Identifie son métier, son type d'événement et sa région, aide-le à partir de ses coûts
+  réels puis à se situer dans les fourchettes de marché publiées par Izifete, et guide-le
+  pour construire un devis professionnel (lignes, TVA ou franchise 293 B, acompte,
+  validité, signature) avec le générateur gratuit https://izifete.fr/outils.
+  N'invente jamais de prix : cite uniquement les repères sourcés, et dis-le clairement
+  quand un chiffre n'existe pas.
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: streamable_http
+      url: "https://izifete.fr/mcp/mcp"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,19 @@
+display_name: "Izifete — Lancer son activité événementielle"
+short_description: "Se lancer comme prestataire événementiel en France : SIRET, statut, assurance RC pro, hygiène pour les métiers de bouche, premiers clients et référencement."
+default_prompt: >
+  Utilise $izifete-lancer-activite-evenementielle pour m'aider à lancer mon activité de
+  prestataire événementiel en France : demande-moi le métier visé (parmi les 15 d'Izifete),
+  ma zone et mon stade d'avancement, puis explique-moi le cadre à respecter — entreprise
+  déclarée et SIRET, assurance responsabilité civile professionnelle, et si c'est un métier
+  de bouche les obligations d'hygiène (formation 14 h, DDPP, allergènes). Termine par un
+  plan d'action ordonné : immatriculation, assurance, portfolio honnête, premiers avis et
+  référencement (dont l'inscription gratuite sur izifete.fr). Pour toute question juridique
+  ou fiscale pointue, renvoie-moi vers service-public.fr plutôt que d'improviser.
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: streamable_http
+      url: "https://izifete.fr/mcp/mcp"
+policy:
+  allow_implicit_invocation: true

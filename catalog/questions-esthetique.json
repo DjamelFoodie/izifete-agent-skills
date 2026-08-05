@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "cree_le": "2026-08-04",
+    "role": "Complète le 16e métier du référentiel : esthétique. Il a 0 prestataire publié aujourd'hui — c'est la catégorie de réserve issue du tri des esthéticiennes de juin. On la couvre quand même parce que le référentiel officiel est à 16 et parce que le vocabulaire côté PRO sert à recruter les esthéticiennes déjà présentes dans la base de prospection.",
+    "distinction_maquilleur": "esthétique = soins, ongles, épilation, bien-être, bar à ongles, forfait détente. maquilleur = maquillage. Les questions marquées piège vérifient qu'on ne confond pas les deux."
+  },
+  "questions": [
+
+    { "id": "E-CLI-001", "cote": "client", "skill": "izifete-trouver-prestataires-evenement", "evenement": "evjf-evg", "metiers": ["esthetique"], "q": "je cherche un bar à ongles à installer pour un EVJF à Bordeaux" },
+    { "id": "E-CLI-002", "cote": "client", "skill": "izifete-trouver-prestataires-evenement", "evenement": "mariage", "metiers": ["esthetique"], "q": "une esthéticienne pour les soins de la mariée le matin du mariage" },
+    { "id": "E-CLI-003", "cote": "client", "skill": "izifete-planifier-evenement", "evenement": "mariage", "metiers": ["esthetique"], "q": "à combien de jours du mariage faire mon épilation et mes soins du visage" },
+    { "id": "E-CLI-004", "cote": "client", "skill": "izifete-trouver-prestataires-evenement", "evenement": "soiree-entreprise", "metiers": ["esthetique"], "q": "on veut un stand bien-être avec massages express pour notre séminaire" },
+    { "id": "E-CLI-005", "cote": "client", "skill": "izifete-budgeter-evenement", "evenement": "evjf-evg", "metiers": ["esthetique"], "q": "combien coûte un atelier ongles à domicile pour six copines" },
+    { "id": "E-CLI-006", "cote": "client", "skill": "izifete-trouver-prestataires-evenement", "evenement": "mariage", "metiers": ["esthetique"], "q": "je veux offrir un moment détente aux demoiselles d'honneur, soins et manucure" },
+
+    { "id": "E-PRO-001", "cote": "presta", "skill": "izifete-lancer-activite-evenementielle", "metiers": ["esthetique"], "q": "je veux devenir esthéticienne à domicile pour les mariages, par où commencer" },
+    { "id": "E-PRO-002", "cote": "presta", "skill": "izifete-lancer-activite-evenementielle", "metiers": ["esthetique"], "q": "faut-il un CAP esthétique pour proposer des soins et de l'épilation" },
+    { "id": "E-PRO-003", "cote": "presta", "skill": "izifete-lancer-activite-evenementielle", "metiers": ["esthetique"], "q": "quelle assurance pour une prothésiste ongulaire qui se déplace en événement" },
+    { "id": "E-PRO-004", "cote": "presta", "skill": "izifete-tarifer-et-devis", "metiers": ["esthetique"], "q": "je facture combien un bar à ongles pour un EVJF d'une demi-journée" },
+    { "id": "E-PRO-005", "cote": "presta", "skill": "izifete-tarifer-et-devis", "metiers": ["esthetique"], "q": "quel forfait pour les soins de la mariée plus ses témoins" },
+    { "id": "E-PRO-006", "cote": "presta", "skill": "izifete-trouver-clients-visibilite", "metiers": ["esthetique"], "q": "comment trouver des mariées à qui proposer mes soins pré-mariage" },
+    { "id": "E-PRO-007", "cote": "presta", "skill": "izifete-trouver-clients-visibilite", "metiers": ["esthetique"], "q": "comment décrocher des ateliers bien-être en entreprise" },
+    { "id": "E-PRO-008", "cote": "presta", "skill": "izifete-creer-profil-prestataire", "metiers": ["esthetique"], "q": "je suis esthéticienne, comment je m'inscris et je remplis mon profil sur Izifete" },
+    { "id": "E-PRO-009", "cote": "presta", "skill": "izifete-developper-organiser-activite", "metiers": ["esthetique"], "q": "je suis seule et je n'arrive pas à tenir plusieurs EVJF le même week-end" },
+
+    { "id": "E-PIEGE-001", "cote": "presta", "skill": "izifete-tarifer-et-devis", "metiers": ["esthetique"], "piege": true, "note": "esthétique (soins/ongles), PAS maquilleur, et c'est une PRO qui fixe son prix.", "q": "je facture combien une pose d'ongles pour un mariage" },
+    { "id": "E-PIEGE-002", "cote": "client", "skill": "izifete-trouver-prestataires-evenement", "evenement": "mariage", "metiers": ["maquilleur"], "piege": true, "note": "Ressemble à de l'esthétique mais c'est bien du MAQUILLAGE que la cliente cherche.", "q": "je cherche quelqu'un pour maquiller la mariée, pas pour les ongles" }
+  ]
+}

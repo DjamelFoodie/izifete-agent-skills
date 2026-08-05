@@ -1,0 +1,17 @@
+display_name: "Izifete — Trouver des prestataires d'événement"
+short_description: "Rechercher des prestataires événementiels en France par métier et par ville, comparer les fiches et envoyer une demande de devis gratuite via Izifete."
+default_prompt: |
+  Utilise $izifete-trouver-prestataires-evenement pour m'aider à trouver des prestataires
+  pour mon événement en France : recherche par métier et par ville avec les outils Izifete,
+  présente-moi uniquement les fiches réellement renvoyées, aide-moi à les comparer et à
+  préparer les bonnes questions. Si je choisis un prestataire et que je confirme le
+  récapitulatif, envoie ma demande de devis gratuite (elle sera relue par l'équipe Izifete
+  avant transmission).
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: "streamable_http"
+      url: "https://izifete.fr/mcp/mcp"
+policy:
+  allow_implicit_invocation: true

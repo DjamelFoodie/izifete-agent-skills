@@ -1,0 +1,402 @@
+[
+ {
+  "id": "C2-201",
+  "q": "mes beaux-parents fêtent 50 ans de mariage, on refait une cérémonie ou juste un grand repas"
+ },
+ {
+  "id": "C2-202",
+  "q": "réunion de famille annuelle, on tourne chez les uns les autres ou on loue un endroit neutre une bonne fois"
+ },
+ {
+  "id": "C2-203",
+  "q": "pour la retraite de maman, un chef à la maison ou un restaurant privatisé, qu'est-ce qui est le plus chaleureux"
+ },
+ {
+  "id": "C2-204",
+  "q": "notre asso de parents d'élèves doit organiser la fête de fin d'année, thème ou pas thème"
+ },
+ {
+  "id": "C2-205",
+  "q": "un marché nocturne avec des stands de street food pour animer le village en été, ça se monte comment"
+ },
+ {
+  "id": "C2-206",
+  "q": "l'équipe est en télétravail aux quatre coins de la France, on fait quoi comme fête de fin d'année"
+ },
+ {
+  "id": "C2-207",
+  "q": "transformer la cantine de la boîte en salle de réveillon, c'est mission impossible ou un pro sait faire"
+ },
+ {
+  "id": "C2-208",
+  "q": "Noël en famille recomposée, deux fêtes ou une seule grande, comment on gère"
+ },
+ {
+  "id": "C2-209",
+  "q": "un EVJF cocooning avec brushing, maquillage et shooting plutôt qu'une grosse soirée, ça se fait de plus en plus non"
+ },
+ {
+  "id": "C2-210",
+  "q": "la mariée est enceinte, on adapte comment le programme de l'EVJF"
+ },
+ {
+  "id": "C2-211",
+  "q": "ma coiffeuse de quartier me propose un forfait mariée, pourquoi les spécialistes mariage sont deux fois plus chères"
+ },
+ {
+  "id": "C2-212",
+  "q": "le maquillage avec essai inclus coûte plus cher, l'essai est vraiment indispensable ou je peux le sauter pour économiser"
+ },
+ {
+  "id": "C2-213",
+  "q": "bouquet de mariée, boutonnières et centres de table seulement, ça reste raisonnable comme poste fleurs"
+ },
+ {
+  "id": "C2-214",
+  "q": "photobooth avec album et accessoires inclus ou tout en option, comment je compare les offres au juste prix"
+ },
+ {
+  "id": "C2-215",
+  "q": "un camion glaces qui passe au dessert du mariage, ça rajoute beaucoup au budget traiteur"
+ },
+ {
+  "id": "C2-216",
+  "q": "les domaines proposent des formules week-end complet, ça vaut le coût par rapport à la journée seule"
+ },
+ {
+  "id": "C2-217",
+  "q": "on est 150 au vin d'honneur mais 80 au dîner, comment ça se répercute sur les devis"
+ },
+ {
+  "id": "C2-218",
+  "q": "un film de mariage complet ou juste un teaser de 3 minutes, la différence de prix est énorme"
+ },
+ {
+  "id": "C2-219",
+  "q": "tout le monde me dit que je vais dépasser mon budget mariage, c'est quoi les dérapages classiques"
+ },
+ {
+  "id": "C2-220",
+  "q": "louer un vrai parquet de danse et des lumières pour le jardin, ça se chiffre comment"
+ },
+ {
+  "id": "C2-221",
+  "q": "le traiteur propose cocktail 12 pièces ou buffet complet pour notre soirée, quel écart de prix je dois attendre"
+ },
+ {
+  "id": "C2-222",
+  "q": "la borne photo pour la soirée de la boîte, on paie à l'heure ou au forfait soirée"
+ },
+ {
+  "id": "C2-223",
+  "q": "des ateliers culinaires avec un chef pour 30 salariés, ça se situe où niveau tarif"
+ },
+ {
+  "id": "C2-224",
+  "q": "l'agence événementielle nous prend 20 % de commission, en passant en direct avec les prestataires on économise vraiment"
+ },
+ {
+  "id": "C2-225",
+  "q": "les lieux de séminaire facturent le forfait journée d'étude, ça comprend quoi exactement dedans"
+ },
+ {
+  "id": "C2-226",
+  "q": "une animation team building pour 50 personnes, la fourchette va de combien à combien"
+ },
+ {
+  "id": "C2-227",
+  "q": "un photographe une demi-journée sur le séminaire plus les portraits LinkedIn, ça se facture comment"
+ },
+ {
+  "id": "C2-228",
+  "q": "séminaire de 3 jours pour 20 personnes, l'hébergement représente quelle part du budget total"
+ },
+ {
+  "id": "C2-229",
+  "q": "un gâteau d'anniversaire sur mesure pour 40 parts, on est sur quel ordre de prix"
+ },
+ {
+  "id": "C2-230",
+  "q": "DJ pour 4 heures de soirée d'anniversaire dans notre salon, il y a un tarif minimum incompressible"
+ },
+ {
+  "id": "C2-231",
+  "q": "brushing et chignon pour ma mère et mes tantes avant la grande fête, ça se facture par personne ou au forfait"
+ },
+ {
+  "id": "C2-232",
+  "q": "j'invite 90 personnes pour mes 60 ans, le poste boissons ça représente combien du total"
+ },
+ {
+  "id": "C2-233",
+  "q": "un petit food truck crêpes pour le goûter de baptême, c'est accessible ou c'est un budget de mariage"
+ },
+ {
+  "id": "C2-234",
+  "q": "la déco complète de la salle de baptême par une pro, arche de ballons comprise, quel budget prévoir"
+ },
+ {
+  "id": "C2-235",
+  "q": "un maquillage professionnel pour la marraine et moi le matin du baptême, c'est le même prix qu'un maquillage mariée"
+ },
+ {
+  "id": "C2-236",
+  "q": "pour la fête des 60 ans de mariage, à partir de combien d'invités un traiteur devient plus rentable qu'un chef à domicile"
+ },
+ {
+  "id": "C2-237",
+  "q": "les cousins veulent une borne photo à la cousinade, on partage les frais, ça fait combien par famille"
+ },
+ {
+  "id": "C2-238",
+  "q": "repas de communion à la maison pour 45 personnes, comment j'estime sérieusement ce que ça va me coûter"
+ },
+ {
+  "id": "C2-239",
+  "q": "les food trucks du marché de producteurs demandent un emplacement gratuit contre leurs recettes, c'est l'usage"
+ },
+ {
+  "id": "C2-240",
+  "q": "un photobooth au profit de la tombola du téléthon communal, les loueurs font des tarifs asso"
+ },
+ {
+  "id": "C2-241",
+  "q": "les chefs à domicile prennent un supplément pour travailler le soir de Noël, c'est courant et c'est de l'ordre de combien"
+ },
+ {
+  "id": "C2-242",
+  "q": "des centres de table de Noël faits par un fleuriste pour 10 tables, ça chiffre vite"
+ },
+ {
+  "id": "C2-243",
+  "q": "le CSE a un budget fêtes par salarié, comment on le répartit entre la soirée et les cadeaux des enfants"
+ },
+ {
+  "id": "C2-244",
+  "q": "faire monter une vidéo souvenir de l'EVJF par un pro avec les rushs de tout le monde, ça coûte quelque chose de raisonnable"
+ },
+ {
+  "id": "C2-245",
+  "q": "louer un gîte avec piscine pour 10 pour l'EVG, on divise comment quand certains ne restent qu'une nuit"
+ },
+ {
+  "id": "C2-246",
+  "q": "on est quatre à se faire coiffer et maquiller le matin, on établit l'ordre de passage comment pour être prêtes à 13h"
+ },
+ {
+  "id": "C2-247",
+  "q": "il fait 35 degrés annoncés, comment on garde les fleurs et le bouquet en état jusqu'au soir"
+ },
+ {
+  "id": "C2-248",
+  "q": "photographe et vidéaste ne se connaissent pas, j'organise leur coordination comment pour qu'ils ne se gênent pas"
+ },
+ {
+  "id": "C2-249",
+  "q": "on découpe le gâteau avant ou après le lancer de bouquet, ça change quoi dans le déroulé"
+ },
+ {
+  "id": "C2-250",
+  "q": "les food trucks du soir ont besoin de quoi sur place, branchement, emplacement, autorisation du domaine"
+ },
+ {
+  "id": "C2-251",
+  "q": "cérémonie religieuse à 14h30 à 40 minutes de la salle, mon planning tient la route ou c'est trop serré"
+ },
+ {
+  "id": "C2-252",
+  "q": "la tente de réception se monte la veille ou le matin même quand on se marie chez nous"
+ },
+ {
+  "id": "C2-253",
+  "q": "mes cheveux tiennent mal, je fais ma couleur et mon soin combien de jours avant le mariage"
+ },
+ {
+  "id": "C2-254",
+  "q": "le DJ et le traiteur doivent se caler entre les plats pour les animations, je m'en occupe ou ils font ça entre eux"
+ },
+ {
+  "id": "C2-255",
+  "q": "mariage à 9h du matin à la mairie, la mise en beauté se fait à quelle heure, je vais me lever à l'aube"
+ },
+ {
+  "id": "C2-256",
+  "q": "on met la borne photo près du bar ou de la piste pour que ça tourne toute la soirée"
+ },
+ {
+  "id": "C2-257",
+  "q": "les salariés partent tôt d'habitude, comment séquencer la soirée pour garder du monde après le dîner"
+ },
+ {
+  "id": "C2-258",
+  "q": "le décorateur peut installer pendant que les équipes travaillent ou il faut bloquer la salle la veille"
+ },
+ {
+  "id": "C2-259",
+  "q": "le vidéaste veut des interviews de salariés pendant la soirée, on prévoit ça à quel moment"
+ },
+ {
+  "id": "C2-260",
+  "q": "on annonce une réorganisation au séminaire, on le fait au début ou à la fin des deux jours"
+ },
+ {
+  "id": "C2-261",
+  "q": "check-in des chambres à 15h mais le séminaire commence à 9h, on gère comment les valises de tout le monde"
+ },
+ {
+  "id": "C2-262",
+  "q": "le photographe du séminaire doit shooter quoi en priorité si on ne le prend que deux heures"
+ },
+ {
+  "id": "C2-263",
+  "q": "pause déjeuner du séminaire avec deux food trucks pour 70 personnes, ça passe en 45 minutes ou c'est trop court"
+ },
+ {
+  "id": "C2-264",
+  "q": "je me prépare chez le coiffeur ou il vient chez moi le jour de mes 40 ans, niveau timing qu'est-ce qui est le plus sûr"
+ },
+ {
+  "id": "C2-265",
+  "q": "le magicien passe entre les tables pendant le repas ou fait un show après, qu'est-ce qui marche le mieux"
+ },
+ {
+  "id": "C2-266",
+  "q": "mes invités ont entre 7 et 77 ans, je rythme la soirée d'anniversaire comment pour ne perdre personne"
+ },
+ {
+  "id": "C2-267",
+  "q": "on sort les accessoires du photobooth dès l'apéro ou on attend que les gens soient chauds"
+ },
+ {
+  "id": "C2-268",
+  "q": "les compositions du baptême sont livrées à l'église ou à la salle, je m'organise comment entre les deux lieux"
+ },
+ {
+  "id": "C2-269",
+  "q": "baptême à 30, on sert le gâteau du pâtissier à quelle heure pour que les familles avec sieste des petits restent jusqu'au bout"
+ },
+ {
+  "id": "C2-270",
+  "q": "le photographe peut shooter dans l'église pendant la cérémonie ou il y a des règles"
+ },
+ {
+  "id": "C2-271",
+  "q": "le chef arrive combien de temps avant le repas des noces d'or et il lui faut quoi dans ma cuisine"
+ },
+ {
+  "id": "C2-272",
+  "q": "grande fête de famille avec des invités qui viennent de loin, on prévoit l'hébergement des anciens comment"
+ },
+ {
+  "id": "C2-273",
+  "q": "on rend les costumes et le matériel de la fête à thème quand, tout est fermé le dimanche"
+ },
+ {
+  "id": "C2-274",
+  "q": "la fête du village dure de 10h à minuit, on organise les équipes de bénévoles en combien de créneaux"
+ },
+ {
+  "id": "C2-275",
+  "q": "cinq food trucks à la fête communale, on les place comment pour éviter une file unique de 40 minutes"
+ },
+ {
+  "id": "C2-276",
+  "q": "le feu d'artifice est à 23h, le DJ s'arrête pendant ou il enchaîne juste après"
+ },
+ {
+  "id": "C2-277",
+  "q": "la déco et les compositions de Noël des bureaux s'installent quand pour tenir jusqu'au nouvel an sans faire sapin sec"
+ },
+ {
+  "id": "C2-278",
+  "q": "goûter de Noël des enfants un mercredi après-midi, on séquence comment spectacle, goûter et distribution des cadeaux"
+ },
+ {
+  "id": "C2-279",
+  "q": "on enchaîne coiffure, maquillage puis shooting puis dîner pour l'EVJF, il faut compter combien de temps pour 8 filles"
+ },
+ {
+  "id": "C2-280",
+  "q": "l'EVG tombe le week-end de l'Ascension, tout le monde est en vadrouille, on le cale quand du coup"
+ },
+ {
+  "id": "C2-281",
+  "q": "un duo coiffure-maquillage qui gère la mariée et cinq personnes le matin du mariage, secteur Avignon"
+ },
+ {
+  "id": "C2-282",
+  "q": "une fleuriste qui accepte les petits mariages avec juste bouquet et deux compositions, vers Mulhouse"
+ },
+ {
+  "id": "C2-283",
+  "q": "un miroir photobooth élégant pour un mariage dans un château près de Blois, qui propose ça"
+ },
+ {
+  "id": "C2-284",
+  "q": "un cake designer qui travaille sans gluten pour notre wedding cake à Nancy"
+ },
+ {
+  "id": "C2-285",
+  "q": "une décoratrice qui gère aussi les fleurs et la papeterie assortie, autour de Nîmes"
+ },
+ {
+  "id": "C2-286",
+  "q": "un vidéaste qui propose le drone en plus pour un mariage dans un domaine vers Carcassonne"
+ },
+ {
+  "id": "C2-287",
+  "q": "un barbier qui se déplace pour le marié et ses témoins le matin du mariage à Lyon, ça existe"
+ },
+ {
+  "id": "C2-288",
+  "q": "une photographe femme pour un mariage où la mariée préfère être photographiée par une femme, région de Roubaix"
+ },
+ {
+  "id": "C2-289",
+  "q": "un stand churros et glaces pour la fin de soirée du mariage du côté de Bayonne"
+ },
+ {
+  "id": "C2-290",
+  "q": "une maquilleuse qui maîtrise les peaux noires et métissées pour mon mariage à Créteil"
+ },
+ {
+  "id": "C2-291",
+  "q": "une borne photo 360 degrés pour notre soirée commerciale à Toulon, qui loue ça"
+ },
+ {
+  "id": "C2-292",
+  "q": "un DJ généraliste avec du matériel son et lumière inclus pour 150 personnes à Chambéry"
+ },
+ {
+  "id": "C2-293",
+  "q": "un chef pour un show cooking devant les clients pendant notre événement à Valence"
+ },
+ {
+  "id": "C2-294",
+  "q": "un décorateur événementiel pour un thème tropical dans notre hangar à Angoulême"
+ },
+ {
+  "id": "C2-295",
+  "q": "un vidéaste pour filmer les talks du séminaire et sortir des capsules pour LinkedIn, vers Niort"
+ },
+ {
+  "id": "C2-296",
+  "q": "louer 60 chaises, des paperboards et un vidéoprojecteur pour un séminaire à Poitiers"
+ },
+ {
+  "id": "C2-297",
+  "q": "un chef qui anime un concours cuisine par équipes pour clôturer le séminaire, région d'Arras"
+ },
+ {
+  "id": "C2-298",
+  "q": "coiffure et maquillage express pour 15 collaboratrices avant les photos officielles du séminaire à Troyes"
+ },
+ {
+  "id": "C2-299",
+  "q": "une pâtissière qui fait des cupcakes et un layer cake assortis pour les 12 ans de ma fille à Brest"
+ },
+ {
+  "id": "C2-300",
+  "q": "un photobooth avec fond personnalisable pour une soirée années 2000 à Quimper"
+ }
+]

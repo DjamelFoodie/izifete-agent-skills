@@ -1,0 +1,19 @@
+display_name: "Izifete — Développer et organiser son activité (prestataires)"
+short_description: "Aide un prestataire événementiel français qui refuse des dates, s'épuise ou ne gagne pas assez : mesurer la rentabilité réelle d'une prestation, décider d'embaucher ou de sous-traiter, organiser sa saison et changer de statut au bon moment."
+default_prompt: |
+  Utilise $izifete-developper-organiser-activite pour un professionnel de l'événementiel
+  en France dont le problème est la CAPACITÉ, pas le manque de clients : il refuse des
+  dates, travaille tous les week-ends, fait du chiffre sans gagner d'argent, ou hésite à
+  embaucher. Pars d'une prestation réelle et terminée pour décortiquer ce qu'elle a
+  vraiment coûté (heures invisibles comprises) avant toute décision de croissance.
+  N'invente aucun seuil chiffré, aucun montant ni aucun taux : quand un repère n'existe
+  pas dans les sources Izifete, dis-le, et renvoie vers un expert-comptable pour les
+  questions fiscales ou juridiques précises.
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: streamable_http
+      url: "https://izifete.fr/mcp/mcp"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,17 @@
+display_name: "Izifete — Créer son profil prestataire"
+short_description: "Préparer un profil de prestataire événementiel qui convertit sur Izifete : métier, zone, description, photos, SIRET et badges de vérification."
+default_prompt: >
+  Utilise $izifete-creer-profil-prestataire pour m'aider à créer ou améliorer mon profil de
+  prestataire événementiel sur Izifete : demande-moi mon métier (parmi les 15 d'Izifete), ma
+  ville, mon rayon de déplacement et mon expérience réelle, puis rédige avec moi une
+  description honnête (au moins 100 caractères et 50 mots, sans aucune coordonnée), aide-moi
+  à choisir mes vraies photos de prestations et vérifie les erreurs classiques. Termine par
+  la checklist d'inscription gratuite sur izifete.fr/inscription?role=prestataire.
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: streamable_http
+      url: "https://izifete.fr/mcp/mcp"
+policy:
+  allow_implicit_invocation: true

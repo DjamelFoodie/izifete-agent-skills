@@ -1,0 +1,17 @@
+display_name: "Izifete — Sécuriser ses prestations"
+short_description: "Vérifier un prestataire événementiel (SIRET, assurance RC pro), cadrer devis, contrat et acompte, et repérer les signaux d'arnaque avant de payer."
+default_prompt: >
+  Utilise $izifete-securiser-prestations pour sécuriser ma réservation de prestataire
+  événementiel en France : vérifie que l'entreprise existe via son SIRET (outil
+  verifier_entreprise), dis-moi ce qu'un devis et un contrat sérieux doivent contenir,
+  quel acompte est raisonnable pour ce métier, et quels signaux d'alarme surveiller
+  avant de payer. Termine par le vérificateur d'entreprise gratuit
+  (izifete.fr/outils/verifier-entreprise) et le comparateur de devis (izifete.fr/outils/devis).
+dependencies:
+  tools:
+    - type: mcp
+      value: "izifete"
+      transport: streamable_http
+      url: "https://izifete.fr/mcp/mcp"
+policy:
+  allow_implicit_invocation: true
