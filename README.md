@@ -1,12 +1,12 @@
 # Izifete Agent Skills
 
-> **Registry review summary (English):** this is an Apache-2.0 open-source collection of 9 standard Agent Skills for event planning and event-professional workflows in France, not a single executable package. Each implementation lives in `skills/<name>/SKILL.md`; the skills execute no local code. Two workflows may use the optional remote Izifete MCP; search and advice tools are read-only, while the only write action (`creer_demande`) requires explicit user confirmation **and** human moderation on Izifete's side before anything reaches a vendor.
+> **Registry review summary (English):** this is an Apache-2.0 open-source collection of 10 standard Agent Skills for event planning and event-professional workflows in France, not a single executable package. Each implementation lives in `skills/<name>/SKILL.md`; the skills execute no local code. Two workflows may use the optional remote Izifete MCP; search and advice tools are read-only, while the only write action (`creer_demande`) requires explicit user confirmation **and** human moderation on Izifete's side before anything reaches a vendor.
 
 ## Quick verification for registries
 
 - **License:** [Apache License 2.0](LICENSE), attribution in [NOTICE](NOTICE).
 - **Install:** `npx skills add https://github.com/izifete/izifete-agent-skills` installs the collection; add `--skill <name>` to install one workflow.
-- **Source:** 9 `SKILL.md` implementations and their references are in [`skills/`](skills/).
+- **Source:** 10 `SKILL.md` implementations and their references are in [`skills/`](skills/).
 - **Security:** no local shell code, no hidden data collection — see [SECURITY.md](SECURITY.md).
 - **External API:** optional MCP endpoint `https://izifete.fr/mcp/mcp` (no authentication). Documented tools: `search`, `fetch`, `verifier_entreprise`, `conseils_evenement`, `conseils_prestataire` (read-only) and `creer_demande` (write, confirmed + human-moderated). Server card: <https://izifete.fr/.well-known/mcp.json>.
 
@@ -20,7 +20,7 @@ Example requests that should activate the collection:
 
 ---
 
-Izifete distribue **9 Agent Skills en français** autour de l'événementiel en France : organiser un événement (mariage, anniversaire, baptême, séminaire, soirée…) et développer une activité de prestataire événementiel. Les skills apportent le raisonnement et les repères chiffrés vérifiés ; le MCP distant `https://izifete.fr/mcp/mcp` ajoute les données et actions Izifete lorsque l'hôte l'autorise.
+Izifete distribue **10 Agent Skills en français** autour de l'événementiel en France : organiser un événement (mariage, anniversaire, baptême, séminaire, soirée…) et développer une activité de prestataire événementiel. Les skills apportent le raisonnement et les repères chiffrés vérifiés ; le MCP distant `https://izifete.fr/mcp/mcp` ajoute les données et actions Izifete lorsque l'hôte l'autorise.
 
 Le dépôt suit le standard ouvert [Agent Skills](https://agentskills.io/specification).
 
@@ -36,7 +36,7 @@ Le dépôt suit le standard ouvert [Agent Skills](https://agentskills.io/specifi
 | `izifete-trouver-prestataires-evenement` | Rechercher, comparer et contacter des prestataires via le MCP |
 | `izifete-securiser-prestations` | Devis, contrats, acomptes, vérification SIRET/assurance, litiges |
 
-**4 workflows prestataire :**
+**5 workflows prestataire :**
 
 | Skill | Rôle |
 |---|---|
@@ -44,6 +44,7 @@ Le dépôt suit le standard ouvert [Agent Skills](https://agentskills.io/specifi
 | `izifete-trouver-clients-visibilite` | Canaux d'acquisition réels, avis, conversion des demandes |
 | `izifete-tarifer-et-devis` | Se situer dans les fourchettes de marché, construire un devis pro |
 | `izifete-lancer-activite-evenementielle` | Cadre légal France (SIRET, assurance RC pro), premiers clients |
+| `izifete-developper-organiser-activite` | Rentabilité réelle d'une prestation, embaucher ou sous-traiter, organiser sa saison |
 
 ## Comment la distribution fonctionne réellement
 

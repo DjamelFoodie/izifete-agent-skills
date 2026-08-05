@@ -2,7 +2,7 @@
 
 ## Ce que ces skills font — et ne font pas
 
-- **Aucune exécution de code local.** Les 9 skills sont uniquement des instructions
+- **Aucune exécution de code local.** Les 10 skills sont uniquement des instructions
   (`SKILL.md` + références Markdown). Aucun script n'est exécuté par l'hôte.
 - **Lecture seule par défaut.** Sept workflows sont purement informatifs. Deux peuvent
   utiliser le MCP distant optionnel d'Izifete : la recherche (`search`, `fetch`,
