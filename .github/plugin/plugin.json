@@ -14,7 +14,7 @@
   "author": {
     "name": "Izifete"
   },
-  "repository": "https://github.com/izifete/izifete-agent-skills",
+  "repository": "https://github.com/DjamelFoodie/izifete-agent-skills",
   "license": "Apache-2.0",
   "skills": [
     "./skills/"

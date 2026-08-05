@@ -5,7 +5,7 @@
 ## Quick verification for registries
 
 - **License:** [Apache License 2.0](LICENSE), attribution in [NOTICE](NOTICE).
-- **Install:** `npx skills add https://github.com/izifete/izifete-agent-skills` installs the collection; add `--skill <name>` to install one workflow.
+- **Install:** `npx skills add https://github.com/DjamelFoodie/izifete-agent-skills` installs the collection; add `--skill <name>` to install one workflow.
 - **Source:** 10 `SKILL.md` implementations and their references are in [`skills/`](skills/).
 - **Security:** no local shell code, no hidden data collection — see [SECURITY.md](SECURITY.md).
 - **External API:** optional MCP endpoint `https://izifete.fr/mcp/mcp` (no authentication). Documented tools: `search`, `fetch`, `verifier_entreprise`, `conseils_evenement`, `conseils_prestataire` (read-only) and `creer_demande` (write, confirmed + human-moderated). Server card: <https://izifete.fr/.well-known/mcp.json>.
@@ -71,13 +71,13 @@ d'une réponse utile.
 ## Installer
 
 ```bash
-npx skills add https://github.com/izifete/izifete-agent-skills
+npx skills add https://github.com/DjamelFoodie/izifete-agent-skills
 ```
 
 Ou installer un seul workflow :
 
 ```bash
-npx skills add https://github.com/izifete/izifete-agent-skills --skill izifete-budgeter-evenement
+npx skills add https://github.com/DjamelFoodie/izifete-agent-skills --skill izifete-budgeter-evenement
 ```
 
 ## Honnêteté des données
