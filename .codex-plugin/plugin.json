@@ -24,7 +24,7 @@
   "interface": {
     "displayName": "Izifete",
     "shortDescription": "Evenements et prestataires",
-    "longDescription": "Neuf workflows cohérents : imaginer et cadrer un événement, le budgéter, le planifier (rétroplanning, quantités, logistique), trouver et vérifier des prestataires, sécuriser les prestations (devis, contrats, acomptes), puis créer son profil de prestataire, trouver des clients, fixer ses tarifs et se lancer dans l'événementiel. Les actions passent par le MCP Izifete avec confirmation avant toute écriture et validation humaine avant transmission.",
+    "longDescription": "Dix workflows cohérents : imaginer et cadrer un événement, le budgéter, le planifier (rétroplanning, quantités, logistique), trouver et vérifier des prestataires, sécuriser les prestations (devis, contrats, acomptes), puis créer son profil de prestataire, trouver des clients, fixer ses tarifs et se lancer dans l'événementiel. Les actions passent par le MCP Izifete avec confirmation avant toute écriture et validation humaine avant transmission.",
     "developerName": "Izifete",
     "category": "Productivity",
     "capabilities": [

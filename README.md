@@ -1,6 +1,6 @@
 # Izifete Agent Skills
 
-> **Registry review summary (English):** this is an Apache-2.0 open-source collection of 10 standard Agent Skills for event planning and event-professional workflows in France, not a single executable package. Each implementation lives in `skills/<name>/SKILL.md`; the skills execute no local code. Two workflows may use the optional remote Izifete MCP; search and advice tools are read-only, while the only write action (`creer_demande`) requires explicit user confirmation **and** human moderation on Izifete's side before anything reaches a vendor.
+> **Registry review summary (English):** this is an Apache-2.0 open-source collection of 10 standard Agent Skills for event planning and event-professional workflows in France, not a single executable package. Each implementation lives in `skills/<name>/SKILL.md`; the skills themselves execute no code — a host that loads one runs no script. (The repo also ships 5 `.mjs` maintenance scripts under `scripts/` and `evals/`, run manually via `npm test`; they are never invoked by a host or by a skill.) All 10 workflows may use the optional remote Izifete MCP when the host grants access, and **each one still works without it** (documented fallback to public izifete.fr pages). Five of the six tools are read-only; the only write action (`creer_demande`) requires explicit user confirmation **and** human moderation on Izifete's side before anything reaches a vendor.
 
 ## Quick verification for registries
 
@@ -8,7 +8,7 @@
 - **Install:** `npx skills add https://github.com/DjamelFoodie/izifete-agent-skills` installs the collection; add `--skill <name>` to install one workflow.
 - **Source:** 10 `SKILL.md` implementations and their references are in [`skills/`](skills/).
 - **Security:** no local shell code, no hidden data collection — see [SECURITY.md](SECURITY.md).
-- **External API:** optional MCP endpoint `https://izifete.fr/mcp/mcp` (no authentication). Documented tools: `search`, `fetch`, `verifier_entreprise`, `conseils_evenement`, `conseils_prestataire` (read-only) and `creer_demande` (write, confirmed + human-moderated). Server card: <https://izifete.fr/.well-known/mcp.json>.
+- **External API:** optional MCP endpoint `https://izifete.fr/mcp/mcp` (public read; the only write action is user-confirmed and human-moderated). Documented tools: `search`, `fetch`, `verifier_entreprise`, `conseils_evenement`, `conseils_prestataire` (read-only) and `creer_demande` (write, confirmed + human-moderated). Server card: <https://izifete.fr/.well-known/mcp.json>.
 
 Example requests that should activate the collection:
 

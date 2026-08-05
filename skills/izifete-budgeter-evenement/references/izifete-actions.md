@@ -1,6 +1,6 @@
 # Actions Izifete
 
-Endpoint canonique : https://izifete.fr/mcp/mcp (Streamable HTTP, sans authentification).
+Endpoint canonique : https://izifete.fr/mcp/mcp (Streamable HTTP ; lecture publique, ecriture confirmee par l utilisateur puis moderee par Izifete).
 Carte serveur : https://izifete.fr/.well-known/mcp.json
 
 ## Quand utiliser cette référence

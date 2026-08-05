@@ -1,8 +1,8 @@
 {
   "name": "izifete-agent-skills",
   "version": "0.1.0",
-  "description": "Nine French Agent Skills covering event planning (budget, timeline, quantities, finding and vetting vendors) and event-professional growth (profile, clients, pricing, quotes, legal basics) in France, with optional Izifete MCP actions.",
-  "category": "productivity",
+  "description": "Ten French Agent Skills covering event planning (budget, timeline, quantities, finding and vetting vendors) and event-professional growth (profile, clients, pricing, quotes, legal basics) in France, with optional Izifete MCP actions.",
+  "category": "Business",
   "platforms": [
     "claude-code",
     "codex",
